@@ -101,8 +101,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - VIT AI Project Team for guidance and support.
 
 ## Contact
-For questions or support, please open an issue on GitHub or contact the team at [kurudneha243@gmail.com] (replace with your contact).
+For questions or support, please open an issue on GitHub.
 
 ---
-
-Last updated: September 22, 2025, 10:00 PM IST
